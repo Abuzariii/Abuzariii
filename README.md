@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Muhammad Abuzar.
 ### I am a graduating Software Engineer currently in my third semester.  
 
-I deal with problems in the domain of *Machine Learning* at its intersection with web. I am less-mathematician-more-programmer data scientist who self learned the domain through online sources and I am trying to build Machine Learning Models.
+I build, train and deploy machine learning models on web 2.0, currently working on Vanilla Js and Tensorflow
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
