@@ -3,6 +3,9 @@
 
 I build, train and deploy machine learning models on web 2.0, currently working on Vanilla Js and Tensorflow
 
+![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="" class="para" style="text-decoration: none; color: transparent;">                       </a><a href="https://twitter.com/memesharraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memesharraf" height="30" width="40" /></a>
