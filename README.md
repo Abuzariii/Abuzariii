@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Muhammad Abuzar.
-### I am a graduating Software Engineer currently in my fourth semester.  
+### I am a graduating Software Engineer.  
 
 I build, train and deploy machine learning models on web 2.0, currently working on React-Js and Tensorflow.
 
@@ -47,12 +47,6 @@ I build, train and deploy machine learning models on web 2.0, currently working 
 
 [The Complete Intro to Machine Learning](https://www.udemy.com/certificate/UC-1a1aa4cf-7332-47ad-a806-11865368a939/)
 
-
-<h3 align="left">Other Interests: </h3>
-Been supporting FC Barcelona since 2008 and regularly watching Messi and Barca play since 2013......
-
-
----
 ---
 
 ## &#x1f4c8; My GitHub Stats
