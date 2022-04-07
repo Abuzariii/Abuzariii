@@ -27,7 +27,7 @@ I build, train and deploy machine learning models on web 2.0, currently working 
 
 <h3 align="left">To the new, January 1st-present: </h3>
 
- I’m currently learning TensorFlow and React-Js and hoping to start Solidity for web 3.0 and Blockchain development by the end of next year, once I am done with some Back End Development in Web 2.0. 
+ I am a Reactjs and Tensorflow developer currently learning Computer Vision, Full Stack Web Development, Natural Language Processing and Transfer Learning.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -43,7 +43,7 @@ I build, train and deploy machine learning models on web 2.0, currently working 
 
 <h3 align="left">Certifications: </h3>
 
-[Python Bootcamp 2021 Build 15 working Applications and Games](https://www.udemy.com/certificate/UC-f083442b-9001-4a7d-bd8f-be663971511d/)
+[Python Bootcamp 2021](https://www.udemy.com/certificate/UC-f083442b-9001-4a7d-bd8f-be663971511d/)
 
 [The Complete Intro to Machine Learning](https://www.udemy.com/certificate/UC-1a1aa4cf-7332-47ad-a806-11865368a939/)
 
@@ -52,12 +52,20 @@ I build, train and deploy machine learning models on web 2.0, currently working 
 Been supporting FC Barcelona since 2008 and regularly watching Messi and Barca play since 2013......
 
 
-<h2 align="left">GitHub Stats </h2>
+---
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuzariii&hide=java,html,css&theme=radical)](https://github.com/abuzariii/github-readme-stats)
+
+[![Abuzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuzariii&theme=radical)](https://github.com/abuzariii/github-readme-stats)
+<h2 align="left">Detailed GitHub Stats </h2>
 
 ![GitHub metrics](https://metrics.lecoq.io/Abuzariii)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abuzariii)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abuzariii&show_icons=true&count_private=true) 
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abuzariii)  
+
+
