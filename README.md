@@ -25,7 +25,7 @@ I build, train and deploy machine learning models on web 2.0, currently working 
 </p>
 
 
-<h3 align="left">To the new, January 1st-present: </h3>
+<h3 align="left">January 1st-present: </h3>
 
  I am a Reactjs and Tensorflow developer currently learning Computer Vision, Full Stack Web Development, Natural Language Processing and Transfer Learning.
 
