@@ -40,13 +40,6 @@ I build, train and deploy machine learning models on web 2.0, currently working 
 </p>
 
 
-
-<h3 align="left">Certifications: </h3>
-
-[Python Bootcamp 2021](https://www.udemy.com/certificate/UC-f083442b-9001-4a7d-bd8f-be663971511d/)
-
-[The Complete Intro to Machine Learning](https://www.udemy.com/certificate/UC-1a1aa4cf-7332-47ad-a806-11865368a939/)
-
 ---
 
 ## &#x1f4c8; My GitHub Stats
