@@ -13,7 +13,7 @@ I build, train and deploy machine learning models on web 2.0, currently working 
     <img src="https://img.shields.io/github/followers/abuzariii?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
-<a href="http://twitter.com/abuzariii_">
+<a href="http://twitter.com/abuzar_iii">
     <img src="https://img.shields.io/twitter/follow/abuzariii_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 <a href="https://www.instagram.com/abuzardoesshit" target="_blank">
