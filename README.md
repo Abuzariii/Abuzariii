@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Muhammad Abuzar.
 ### I am a graduating Software Engineer.  
 
-I build, train and deploy machine learning models on web 2.0, currently working on React-Js and Tensorflow.
+I build, train and deploy machine learning models on web 2.0, currently working on MERN and Tensorflow.
 
 ![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
 <br />
@@ -27,7 +27,7 @@ I build, train and deploy machine learning models on web 2.0, currently working 
 
 <h3 align="left">January 1st-present: </h3>
 
- I am a Reactjs and Tensorflow developer currently learning Computer Vision, Full Stack Web Development, Natural Language Processing and Transfer Learning.
+ I am a MERN and Tensorflow developer currently learning Computer Vision, Full Stack Web Development, Natural Language Processing and Transfer Learning.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
