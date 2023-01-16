@@ -54,8 +54,6 @@ I build, train and deploy machine learning models on web 2.0, currently working 
 
 ![GitHub metrics](https://metrics.lecoq.io/Abuzariii)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abuzariii)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abuzariii)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abuzariii)   
 
 
