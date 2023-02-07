@@ -27,7 +27,7 @@ I am working on Data Sciences and Full Stack Development on Web 2.0
 
 <h3 align="left">Present: </h3>
 
- Building apps with MERN stack and working on Data Sciences tools and softwares.
+ Building web apps with MERN stack and working on Data Sciences tools and softwares.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
