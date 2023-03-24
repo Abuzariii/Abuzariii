@@ -42,7 +42,6 @@ I am working on Data Sciences and Full Stack Development on Web 2.0
 <img  height="45" src="https://raw.githubusercontent.com/Abuzariii/Colorizing-Grayscale-Images-with-OpenCV/7d1a2a43b144ea3f9e432f2a0acc22fed77a716f/microsoft-sql-server-logo-svgrepo-com.svg">
 <img height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/text%20editors/vscode.svg">
 <img  height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Power-BI.svg">
-<img  height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/0f3dbf32ce27b9a0e53fef1084a48aa56feadc5e/logos/mysql.svg">
 </p>
 
 
