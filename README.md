@@ -6,7 +6,6 @@ Working on Data Sciences and Full Stack Development on Web 2.0
 ![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
 <br />
 
-
 <h3 align="left">💬 Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/abuzariii?tab=followers">
@@ -66,8 +65,7 @@ Proficient in public speaking, my communication skills are top-notch thanks to m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuzariii&hide=java,html,css&theme=radical)](https://github.com/abuzariii/github-readme-stats)
 
-[![Abuzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuzariii&theme=radical)](https://github.com/abuzariii/github-readme-stats)
-<h2 align="left">Detailed GitHub Stats </h2>
+[![Abuzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuzariii)](https://github.com/abuzar/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/Abuzariii)  
 
