@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Muhammad Abuzar.
-### I am a graduating Software Engineer.  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer.  
 
-I am working on Data Sciences and Full Stack Development on Web 2.0
+Working on Data Sciences and Full Stack Development on Web 2.0
 
 ![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
 <br />
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬 Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/abuzariii?tab=followers">
     <img src="https://img.shields.io/github/followers/abuzariii?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -25,13 +25,13 @@ I am working on Data Sciences and Full Stack Development on Web 2.0
 </p>
 
 
-<h3 align="left">Present: </h3>
+<h3 align="left">🖥️ Present: </h3>
 
  Building web apps with MERN stack and working on Data Sciences tools and softwares.
  
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🚀 Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                                                                           alt="python" width="40" height="40"/> </a> </a>
@@ -48,7 +48,7 @@ I am working on Data Sciences and Full Stack Development on Web 2.0
 
 <!-- Expandable  -->
  <details>
-<summary><h3>Click to know about my work :</h3></summary>
+<summary><h3>📝 Click to know about my work :</h3></summary>
 I am experienced in Web Development with MERN Stack, Data Analysis, Visualization, Cleaning, Preprocessing and Applied Machine Learning in Python libraries like Numpy, Pandas, Matplotlib, Seaborn and Scikit Learn, Applied Deep Learning with Tensorflow, Querying SQL data in Microsoft SQL Server Management Studio and Dashboarding in Microsoft Power BI.
 
   
