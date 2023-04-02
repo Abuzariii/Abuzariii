@@ -28,6 +28,16 @@ I am working on Data Sciences and Full Stack Development on Web 2.0
 <h3 align="left">Present: </h3>
 
  Building web apps with MERN stack and working on Data Sciences tools and softwares.
+ 
+<!-- Expandable  -->
+ <details>
+<summary><h3>Click to know about my work :</h3></summary>
+I am experienced in Web Development with MERN Stack, Data Analysis, Visualization, Cleaning, Preprocessing and Applied Machine Learning in Python libraries like Numpy, Pandas, Matplotlib, Seaborn and Scikit Learn, Applied Deep Learning with Tensorflow, Querying SQL data in Microsoft SQL Server Management Studio and Dashboarding in Microsoft Power BI.
+
+  
+  
+Proficient in public speaking, my communication skills are top-notch thanks to my 2 years of experience in multiple departmental and university level societies. My soft skills include communication, project management, team management, event planning and event marketing. In last 2 years I have hosted, managed and organized multiple events in fields of tech, awareness, scientific literacy and entrepreneurship. I have a track record of creating successful campaigns that increase engagement and drive attendance.
+</details>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
