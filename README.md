@@ -30,7 +30,22 @@ I am working on Data Sciences and Full Stack Development on Web 2.0
  Building web apps with MERN stack and working on Data Sciences tools and softwares.
  
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
- 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                                                                          alt="python" width="40" height="40"/> </a> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+<img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+<img height="45" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img  height="50" src="https://raw.githubusercontent.com/Abuzariii/Colorizing-Grayscale-Images-with-OpenCV/7d1a2a43b144ea3f9e432f2a0acc22fed77a716f/microsoft-sql-server-logo-svgrepo-com.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
+<img  height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
+</p>
+
 <!-- Expandable  -->
  <details>
 <summary><h3>Click to know about my work :</h3></summary>
@@ -41,20 +56,8 @@ I am experienced in Web Development with MERN Stack, Data Analysis, Visualizatio
 Proficient in public speaking, my communication skills are top-notch thanks to my 2 years of experience in multiple departmental and university level societies. My soft skills include communication, project management, team management, event planning and event marketing. In last 2 years I have hosted, managed and organized multiple events in fields of tech, awareness, scientific literacy and entrepreneurship. I have a track record of creating successful campaigns that increase engagement and drive attendance.
 </details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                                                                          alt="python" width="40" height="40"/> </a> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-<img  height="45" src="https://raw.githubusercontent.com/Abuzariii/Colorizing-Grayscale-Images-with-OpenCV/7d1a2a43b144ea3f9e432f2a0acc22fed77a716f/microsoft-sql-server-logo-svgrepo-com.svg">
-<img height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/text%20editors/vscode.svg">
-<img  height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Power-BI.svg">
-</p>
+
+
 
 
 ---
