@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Muhammad Abuzar
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer.  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer.
 
 Working on Data Sciences and Full Stack Development on Web 2.0
 
