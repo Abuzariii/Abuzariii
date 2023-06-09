@@ -42,9 +42,9 @@ Working on Data Sciences and Full Stack Development on Web 2.0
 <img height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
 <img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
 <img height="45" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-<img  height="50" src="https://raw.githubusercontent.com/Abuzariii/Colorizing-Grayscale-Images-with-OpenCV/7d1a2a43b144ea3f9e432f2a0acc22fed77a716f/microsoft-sql-server-logo-svgrepo-com.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
+<img  height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
 </p>
 
 <!-- Expandable  -->
