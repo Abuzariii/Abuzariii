@@ -40,6 +40,7 @@ Working on Data Sciences and Full Stack Development on Web 2.0
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
 <img height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+<img  height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 <img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
 <img height="45" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
