@@ -46,6 +46,7 @@ Working on Data Sciences and Full Stack Development on Web 2.0
 <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+<img  height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
 </p>
 
 <!-- Expandable  -->
