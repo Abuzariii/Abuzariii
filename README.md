@@ -71,7 +71,7 @@ Proficient in public speaking, my communication skills are top-notch thanks to m
 
 [![Abuzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuzariii)](https://github.com/abuzar/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Abuzariii)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abuzariii)   
 
