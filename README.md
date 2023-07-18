@@ -39,6 +39,7 @@ Working on Data Sciences and Full Stack Development on Web 2.0
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img height="45" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg">
 <img height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 <img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
