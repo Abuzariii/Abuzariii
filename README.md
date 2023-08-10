@@ -73,6 +73,4 @@ Proficient in public speaking, my communication skills are top-notch thanks to m
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abuzariii)](https://git.io/streak-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abuzariii)   
-
 
