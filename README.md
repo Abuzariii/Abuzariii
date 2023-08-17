@@ -14,9 +14,7 @@ Working on Data Sciences and Full Stack Development on Web 2.0
     <img src="https://img.shields.io/github/followers/abuzariii?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
-<a href="http://twitter.com/Abuzar_ii">
-    <img src="https://img.shields.io/twitter/follow/abuzariii_?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
+
 <a href="https://www.instagram.com/abuzardoesshit" target="_blank">
   <img alt="Abuzar | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
