@@ -27,7 +27,7 @@ Working on Data Sciences and Full Stack Development on Web 2.0
 
 <h3 align="left">🖥️ Present : </h3>
 
- Building web apps with MERN stack and working on Data Sciences tools and softwares.
+Developing web applications using the MERN stack and leveraging data science tools.
  
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
@@ -52,11 +52,8 @@ Working on Data Sciences and Full Stack Development on Web 2.0
 <!-- Expandable  -->
  <details>
 <summary><h3>📝 Click to know about my work :</h3></summary>
-I am experienced in Web Development with MERN Stack, Data Analysis, Visualization, Cleaning, Preprocessing and Applied Machine Learning in Python libraries like Numpy, Pandas, Matplotlib, Seaborn and Scikit Learn, Applied Deep Learning with Tensorflow, Querying SQL data in Microsoft SQL Server Management Studio and Dashboarding in Microsoft Power BI.
-
-  
-  
-Proficient in public speaking, my communication skills are top-notch thanks to my 2 years of experience in multiple departmental and university level societies. My soft skills include communication, project management, team management, event planning and event marketing. In last 2 years I have hosted, managed and organized multiple events in fields of tech, awareness, scientific literacy and entrepreneurship. I have a track record of creating successful campaigns that increase engagement and drive attendance.
+   
+I am an experienced MERN stack Developer who can build highly responsive UIs, REST APIs, Graph QL and real time communications with Web Sockets. I can also analyze, visualize, clean and preprocess data for Machine or Deep Learning. On the db side I use PostgreSQL and MongoDB as my primary databases and Power BI to make dashboards for business intelligence. 
 </details>
 
 
