@@ -10,16 +10,17 @@ Working on Data Sciences and Full Stack Development on Web 2.0
 
 <h3 align="left">💬 Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/abuzariii?tab=followers">
-    <img src="https://img.shields.io/github/followers/abuzariii?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-
-
-<a href="https://www.instagram.com/abuzardoesshit" target="_blank">
-  <img alt="Abuzar | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-  <a href="https://www.linkedin.com/in/muhammad-abuzar-370a09206/" target="_blank">
+  
+<a href="https://www.linkedin.com/in/abuzariii/" target="_blank">
   <img alt="Abuzar | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://abuzar.hashnode.dev/" target="_blank">
+  <img alt="Abuzar | hashnode"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@Abuzariii" target="_blank">
+  <img alt="Abuzar | medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </p>
 
