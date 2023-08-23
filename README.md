@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Muhammad Abuzar 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer.
 
-Working on Data Sciences and Full Stack Development on Web 2.0 
+Working on Data Sciences and Full Stack Development with JavaScript
 
 ![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
 <br />
