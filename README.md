@@ -66,7 +66,7 @@ I am an experienced MERN stack Developer who can build highly responsive UIs, RE
 
 [![Abuzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuzariii)](https://github.com/abuzar/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abuzariii)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abuzariii&theme=dark)](https://git.io/streak-stats)
 
 
 
