@@ -54,6 +54,8 @@ Developing web and mobile applications using the MERN stack and leveraging data 
 <summary><h3>📝 Click to know about my work :</h3></summary>
    
 I am an experienced MERN stack Developer who can build highly responsive UIs, REST APIs, Graph QL and real time communications with Web Sockets. I can also analyze, visualize, clean and preprocess data for Machine or Deep Learning. On the db side I use PostgreSQL and MongoDB as my primary databases and Power BI to make dashboards for business intelligence. 
+
+You can view all my online certificates here : https://github.com/Abuzariii/Certificates
 </details>
 
 
