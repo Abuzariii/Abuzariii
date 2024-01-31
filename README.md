@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Muhammad Abuzar 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer.
 
-Working on Data Sciences and Full Stack Mobile and Web Development with JavaScript
+Working on Full Stack Web Development and Deep Learning
 
 ![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
 <br />
@@ -53,7 +53,9 @@ Developing web and mobile applications using the MERN stack and leveraging data 
  <details>
 <summary><h3>📝 Click to know about my work :</h3></summary>
    
-I am an experienced MERN stack Developer who can build highly responsive UIs, REST APIs, Graph QL and real time communications with Web Sockets. I can also analyze, visualize, clean and preprocess data for Machine or Deep Learning. On the db side I use PostgreSQL and MongoDB as my primary databases and Power BI to make dashboards for business intelligence. 
+I am a highly skilled MERN Stack Developer who can build highly responsive UIs, Web Applications and APIs. I also use PostgreSQL, Nextjs and GraphQL along with MERN.
+
+I have also worked as a research assistant for multiple Masters and PhD students for deep learning projects in the domain of Natural Lagnguage Processing and Computer Vision. I can train, fine tune and deploy highly accurate models for pretty much any task including sentiment analysis, regression, classification, object detection and recognition. My DL/ML stack includes Python and Tensorflow.
 
 You can view all my online certificates here : https://github.com/Abuzariii/Certificates
 </details>
