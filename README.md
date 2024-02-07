@@ -53,7 +53,7 @@ Developing web and mobile applications using the MERN stack and leveraging data 
  <details>
 <summary><h3>📝 Click to know about my work :</h3></summary>
    
-I am a highly skilled MERN Stack Developer who can build highly responsive UIs, Web Applications and APIs. I also use PostgreSQL, Nextjs and GraphQL along with MERN.
+I am a skilled MERN Stack Developer who can build highly responsive UIs, Web Applications and APIs. I also use PostgreSQL, Nextjs and GraphQL along with MERN.
 
 I have also worked as a research assistant for multiple Masters and PhD students for deep learning projects in the domain of Natural Lagnguage Processing and Computer Vision. I can train, fine tune and deploy highly accurate models for pretty much any task including sentiment analysis, regression, classification, object detection and recognition. My DL/ML stack includes Python and Tensorflow.
 
