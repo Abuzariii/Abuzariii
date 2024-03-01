@@ -50,7 +50,7 @@ Developing web and mobile applications using the MERN stack and leveraging data 
 </p>
 
 <!-- Expandable  -->
- <details>
+<details>
 <summary><h3>📝 Click to know about my work :</h3></summary>
    
 I am a skilled MERN Stack Developer who can build highly responsive UIs, Web Applications and APIs. I also use PostgreSQL, Nextjs and GraphQL along with MERN.
