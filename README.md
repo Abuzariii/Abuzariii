@@ -49,9 +49,9 @@ Developing web and mobile applications using the MERN stack and leveraging data 
 <img  height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
 </p>
 
-<!-- Expandable  -->
+
 <details>
-<summary><h3>📝 Click to know about my work :</h3></summary>
+  <summary>📝 Click to know about my work : </summary>
    
 I am a skilled MERN Stack Developer who can build highly responsive UIs, Web Applications and APIs. I also use PostgreSQL, Nextjs and GraphQL along with MERN.
 
@@ -59,6 +59,7 @@ I have also worked as a research assistant for multiple Masters and PhD students
 
 You can view all my online certificates here : https://github.com/Abuzariii/Certificates
 </details>
+
 
 
 
