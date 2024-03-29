@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Muhammad Abuzar
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer
 
-Working on Full Stack Web Development and Deep Learning
+Working on building scalable Healthcare Software Solutions and writing academic standard code for researchers
 
 ![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
 <br />
@@ -27,7 +27,7 @@ Working on Full Stack Web Development and Deep Learning
 
 <h3 align="left">🖥️ Present : </h3>
 
-Developing web and mobile applications using the MERN stack and leveraging data science tools.
+Working as a Full Stack Software Engineer at Trilops, building scalable software solutions in healthcare industry. I am also offering my services as an assistant for researchers who need to write code for their papers and theses.
  
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
