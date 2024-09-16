@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Muhammad Abuzar
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineer
 
-Working on building scalable Healthcare Software Solutions and writing academic standard code for researchers
+Building dynamic, data intensive web applications using industry standard coding best practices
 
 ![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
 <br />
