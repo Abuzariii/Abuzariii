@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Muhammad Abuzar
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineer
 
-Building dynamic, data intensive web applications using industry standard coding best practices
+Leveraging my passion for software development to drive innovation and excellence in healthcare industry.
 
 ![](https://komarev.com/ghpvc/?username=abuzariii&color=blueviolet&label=Profile+Views)
 <br />
@@ -27,7 +27,7 @@ Building dynamic, data intensive web applications using industry standard coding
 
 <h3 align="left">🖥️ Present : </h3>
 
-Working as a Full Stack Software Engineer at Trilops, building scalable and dynamic healthcare software solutions. I am also offering services as a research assitant for academics, helping them in brainstorming innovative project ideas, program their solutions and draft project documentations like theses and dissertations according to academic standards.
+Working as a Software Engineer at Trilops, building scalable and dynamic healthcare software solutions. Closely working with clients in healthcare industry, resolving their pain points and delivering top notch user experience and interface to clients on the web.
  
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
@@ -55,7 +55,7 @@ Working as a Full Stack Software Engineer at Trilops, building scalable and dyna
    
 I am a skilled MERN/MEAN Stack Developer who can build highly responsive UIs, Web Applications and APIs. I am working as a Software Engineer at Trilops, building healthcare softwares including EMR systems, Patient Portals and Case Management Softwares. My stack includes, but is not limited to React.js, Angular, Next.js, NestJS, PostgreSQL, Tensorflow and PowerBI. I am proficient in Python and JavaScript programming languages.
 
-I also work as a research assistant with Researchers & Scholars to help them materialize deep learning projects, particularly in the domains of Natural Lagnguage Processing and Computer Vision. I can train, fine tune and deploy highly accurate models for pretty much any task including sentiment analysis, regression, classification, object detection and recognition.
+I also work as a research assistant with Researchers & Scholars to help them materialize deep learning projects, particularly in the domains of Natural Lagnguage Processing and Computer Vision. I have trained, fine tuned and deployed highly accurate models for niche tasks like sentiment analysis, regression, classification, object detection and recognition.
 
 View all my certifications here : https://github.com/Abuzariii/Certificates
 </details>
