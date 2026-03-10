@@ -19,9 +19,7 @@ Leveraging my passion for software development to drive innovation and excellenc
   <img alt="Abuzar | hashnode"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@Abuzariii" target="_blank">
-  <img alt="Abuzar | medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+
 </p>
 
 
